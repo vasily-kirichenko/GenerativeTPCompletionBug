@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kirichenko\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_GenerativeTPCompletionBug.1713481056.00" t="ExcludeRecursive" />
+    <e p="C:\WLCR\github\GenerativeTPCompletionBug" t="IncludeFlat">
+      <e p="ConsoleApplication" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApplication.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="GenerativeTPCompletionBug.sln" t="IncludeFlat" />
+      <e p="LibraryWithTP" t="IncludeRecursive">
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Library1.fs" t="Include" />
+        <e p="LibraryWithTP.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Script.fsx" t="Include" />
+        <e p="Settings.yaml" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
